@@ -1,4 +1,4 @@
-![image](https://github.com/Lulluee18/Prediksi-KinerjaSiswa/assets/165852408/c30e825b-6d0d-46c2-a3d8-db76a0cb3496)# Prediksi-KinerjaSiswa
+# Prediksi-KinerjaSiswa
 
 # Domain Proyek 
 Kinerja Siswa adalah adalah konsep yang mengacu pada seberapa baik atau seberapa buruk siswa mencapai tujuan belajar mereka dalam konteks pendidikan. Ini bisa mencakup berbagai aspek, termasuk nilai atau prestasi akademi siswa .
