@@ -50,11 +50,17 @@ Berikut adalah hasil Exploratory Data Analysis (EDA), dimana Gambar 1 merupakan 
 
 ![image](https://github.com/Lulluee18/Prediksi-KinerjaSiswa/assets/165852408/d0051b9a-c333-4f73-a3a7-d1a7b7cc927b) ![image](https://github.com/Lulluee18/Prediksi-KinerjaSiswa/assets/165852408/d7e51c8e-d473-461c-8042-f22bac3c7448) ![image](https://github.com/Lulluee18/Prediksi-KinerjaSiswa/assets/165852408/08c54a14-63e7-4ebd-9e2c-69a33f2f5453) ![image](https://github.com/Lulluee18/Prediksi-KinerjaSiswa/assets/165852408/e38e9ee2-948e-4a25-b546-25cd2e88652e) ![image](https://github.com/Lulluee18/Prediksi-KinerjaSiswa/assets/165852408/8bf49c9f-d2a4-488a-986c-5557e0ec6ef0)
 
- 	                                           Gambar 1a . Analisis Univariant (Data Kategori)
-			
+ 	                                          
+					     
+	  
+   						  	Gambar 1a . Analisis Univariant (Data Kategori)
+					
 ![image](https://github.com/Lulluee18/Prediksi-KinerjaSiswa/assets/165852408/1748cd89-aaa6-42f5-af9e-09acbe1d0b2d)
 
-			                            Gambar 1b. Analisis Univariant (Data Numerik)
+
+
+					
+			                	            Gambar 1b. Analisis Univariant (Data Numerik)
 Berdasarkan gambar 1a,dapat dilihat bahwa ada 5 distribusi data kategori yaitu : untuk ‘ gender’memiliki perbandingan jumlah yang beda tipis atau perbandingan yang rendah dimana untuk male berjumlah 517 dengan persentase hampir 99%  sedangkan pada data female hanya 483,untuk ‘race_ethnicity’ pada distribusi data ini memiliki 5 group yang dimana perbandingan kelima grub ini memiliki nilai yang berbeda-beda,telah terlihat bahwa group a memiliki distribusi data yang rendah sedangka distribusi data yang tinggi terdapat pada group e,selanjutnya untuk ‘education’ distribusi data ini memiliki 5 yaitu some college,associate’s degree,high school,some high school,bachelor’s degree dan master’s degree pada some college memiliki distribusi data yang tinggi sedangkan distribusi data yang rendah jatuh di master’s degree,untuk’lunch terbagi menjadi dua itu standard dan free/reduced pada distribusi ini persebaran yang jauh lebih drastic pada standard dimana nilainya 65,2% jauh lebih tinggi dengan distribusi data 652 sedangkan pada free/reduced setegah persen dari distribusi data standard,untuk ‘test_preparation_course’ini sama seperti lunch yang dimana memiliki 2 distribusi data yaitu none dan completed telah terlihat persebaran distribusi data yang jauh lebih tinggi yaitu none.Pada Gambar 1b, untuk data numeric memiliki karakteristik,yaitu :
 . Koordinat reading score mayoritas berada pada 149 derajat 150 derajat dan koodinat writing score mayoritas pada 150 derajat 120 derajat.
 . Median dari kinerja siswa terdistribusi pada rentang 100-150 dan 150-200
